@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  AR Ruler
-//
-//  Created by Angela Yu on 31/07/2017.
-//  Copyright © 2017 Angela Yu. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
